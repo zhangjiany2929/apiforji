@@ -3,4 +3,4 @@ spring:
     prefix: classpath:/templates/
 
 server:
-  port: 8888
+  port: 8080
